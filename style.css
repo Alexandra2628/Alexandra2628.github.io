@@ -2,5 +2,11 @@ body{
      color:purple;
      background-color: lightyellow;
 }
+.button{
+        background-color:green;
+        color:white;
+        font-size:16px;
+}
+
 
 

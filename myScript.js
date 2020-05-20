@@ -1,6 +1,6 @@
 function aratamesaje() {
                          alert("bine ai venit");
 }
-function arataaldoileamesaj() {
+function cecauțiaici?() {
                                  alert("ce cauți aici?");
 }

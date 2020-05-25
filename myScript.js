@@ -6,7 +6,7 @@ function aratamesaj2() {
 }
 function cineesti(){
 let răspuns=prompt(" Care este numele tau?");
-document.getElementById("nume").innerHTML=răspuns;
+document.getElementById("nume").innerHTML="salut "+răspuns;
 }
 function catianiai(){
 let răspuns=prompt(" Câți ani ai?");

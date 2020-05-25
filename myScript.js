@@ -5,8 +5,10 @@ function aratamesaj2() {
                                  alert("ce cauți aici?");
 }
 function cineesti(){
-prompt(" Care este numele tau?");
+let răspuns=prompt(" Care este numele tau?");
+document.getElementById("nume").innerHTML=răspuns;
 }
 function catianiai(){
-prompt(" Câți ani ai?");
+let răspuns=prompt(" Câți ani ai?");
+document.getElementById("ani").innerHTML=răspuns;
 } 
